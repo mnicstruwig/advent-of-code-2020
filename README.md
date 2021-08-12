@@ -1,10 +1,11 @@
-# advent-of-code-2020
+# Advent of Code 2020
 
 I was late to the party for [Advent of Code](https://adventofcode.com/).  But,
 as it turns out, Advent of Code is fantastic for learning a new programming
 language, tools, styles, and so on, due to the low floor (just get the right
 answer) and high self-imposed ceiling (how can I make my working solution
-better?).
+better?). This is high praise coming from a person who doesn't enjoy obscure
+riddles, or puzzles that are stereotypical of "programming puzzles".
 
 Advent of Code happens to be in the "Goldilocks zone" of interesting enough to
 be fun, but not so hard as to be discouraging (at least for the early
