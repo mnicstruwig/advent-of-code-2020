@@ -13,7 +13,7 @@ problems). It is way, way less intimidating than tackling a fully-fledged
 project in a new language.
 
 For the 2020 problems, I'm using it to learn
-[Clojure](https://clojure.org/index), alongisde my daily staple, Python.
+[Clojure](https://clojure.org/index), alongside my daily staple, Python.
 
 I have no hard intentions to finish *every* problem, nor to work on a problem
 every day. This is just a little bit of fun to see how far I can get!
